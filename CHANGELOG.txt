@@ -1,4 +1,3 @@
-// $Id$
 
 Todo:
  * bring in Frando's logger as a Seen-er too.

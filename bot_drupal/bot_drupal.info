@@ -1,4 +1,3 @@
-; $Id$
 name = Bot Drupal
 package = Bot
 dependencies = bot
