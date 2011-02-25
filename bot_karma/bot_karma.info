@@ -1,4 +1,3 @@
-; $Id$
 name = Bot Karma
 package = Bot
 description = "Enables positive and negative tracking of words and phrases."
